@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Orgulho e Preconceito",
+    "autor": "Jane Austen",
+    "editora": "Martins Fontes",
+    "ano": 1813,
+    "sinopse": "A história segue Elizabeth Bennet enquanto lida com questões de classe, casamento e amor na Inglaterra do século XIX.",
+    "paginas": 432,
+    "genero": ["romance", "clássico"],
+    "preco": 99.9
+  },
+  {
+    "titulo": "O Código Da Vinci",
+    "autor": "Dan Brown",
+    "editora": "Sextante",
+    "ano": 2003,
+    "sinopse": "Um simbologista desvenda segredos ocultos em obras de arte e sociedades secretas enquanto tenta resolver um assassinato misterioso.",
+    "paginas": 489,
+    "genero": ["mistério", "thriller"],
+    "preco": 120
+  },
+  {
+    "titulo": "A Cabana",
+    "autor": "William P. Young",
+    "editora": "Arqueiro",
+    "ano": 2007,
+    "sinopse": "Um homem enfrenta a dor da perda e encontra respostas espirituais em encontros com Deus em uma cabana isolada.",
+    "paginas": 264,
+    "genero": ["religioso", "ficção espiritual"],
+    "preco": 120
+  }
+]
